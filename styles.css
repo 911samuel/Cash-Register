@@ -1,0 +1,54 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 20px;
+  background-color: #0a0a23;
+  color: black;
+  }
+
+  #main{
+    width: 500px;
+    height: 500px;
+    margin: auto;
+    background-color: grey;
+    border: 3PX solid white;
+  }
+
+  #number {
+    padding: 10px;
+    width: 200px;
+  }
+
+  #purchase-btn {
+    padding: 5px 30px;
+    cursor: pointer;
+    background-color: gold;
+    width: 200px;
+    font-size: 28px;
+    margin-top: 5px;
+  }
+
+  #change-due {
+    background-color: white;
+    width: 200px;
+    font-size: 28px;
+    margin-top: 5px;
+    margin: 5px auto;
+  }
+
+
+  #cash {
+    padding: 10px;
+    width: 100px;
+  }
+
+  h1, h2{
+    font-size: 48px;
+    color: white;
+}
+
+p{
+  font-size: 28px;
+  font-weight: 600;
+  color: white;
+}
